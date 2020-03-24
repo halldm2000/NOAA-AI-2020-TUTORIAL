@@ -15,7 +15,7 @@ def load_co2_data():
     return year, co2
 
 #_______________________________________________________________________________
-def plot_co2_data(x, y, y_pred,loss=-1):
+def plot_co2_data(x, y, ypred,loss=-1):
   import matplotlib.pyplot as plt
 
   # plot targets
@@ -28,5 +28,5 @@ def plot_co2_data(x, y, y_pred,loss=-1):
   plt.xlabel('Years since 1974')
 
   # plot prediction
-  plt.plot(x, y_pred,'.', markersize=1)
+  plt.plot(x, ypred,'.', markersize=1)
   fig.show()
