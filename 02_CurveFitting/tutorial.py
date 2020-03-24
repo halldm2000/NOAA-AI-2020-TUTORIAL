@@ -12,8 +12,7 @@ def load_co2_data():
     co2   = data[:,4]                                 # column 4 is co2 in parts per million
     print("Number of CO2 obsertvations =",co2.size)
 
-    x = year
-    y = co2
+    return year, co2
 
 #_______________________________________________________________________________
 def plot_co2_data(y_pred,loss=-1):
