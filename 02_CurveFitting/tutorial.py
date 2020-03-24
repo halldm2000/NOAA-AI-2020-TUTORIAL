@@ -15,7 +15,7 @@ def load_co2_data():
     return year, co2
 
 #_______________________________________________________________________________
-def plot_co2_data(y_pred,loss=-1):
+def plot_co2_data(x, y, y_pred,loss=-1):
   import matplotlib.pyplot as plt
 
   # plot targets
