@@ -4,5 +4,5 @@ This is a deep learning tutorial I am developing for use at the NOAA AI Workshop
 
 It's not ready for prime-time, so please don't try to use it yet. 
 
-Here's a link to the PDF (also not yet finished)
-[Link to the PDF](https://drive.google.com/file/d/1-Bqo_4H5foLjWLyEB2EyKvpIXTjNHhyP/view?usp=sharing)
+
+[Click here to download the tutorial PDF](https://drive.google.com/file/d/1-Bqo_4H5foLjWLyEB2EyKvpIXTjNHhyP/view?usp=sharing)
